@@ -1,0 +1,3 @@
+- [ReadMe](https://github.com/vladmandic/automatic#readme)
+- [Todo](https://github.com/vladmandic/automatic/blob/master/TODO.md)
+- [Original Wiki](https://github.com/AUTOMATIC1111/stable-diffusion-webui/wiki)
